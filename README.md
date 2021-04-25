@@ -1,1 +1,1 @@
-# BABIP-Statcast-Models
+## Predicting BABIP From Statcast Gamelogs
